@@ -5,7 +5,7 @@ Consider:
 * What components were new to you?
 * What challenges did you face?
 * What did you learn about embedded systems?
-  Some components were new to me, especially GPIO pins, which allow direct communication between the computer and external devices like sensors, LEDs, and motors. I also learned more about how microSD cards are used as storage in embedded systems instead of traditional hard drives.
+* Some components were new to me, especially GPIO pins, which allow direct communication between the computer and external devices like sensors, LEDs, and motors. I also learned more about how microSD cards are used as storage in embedded systems instead of traditional hard drives.
 
 One challenge I faced was understanding how all the components connect and interact, especially how input and output signals work in real time. It was also a bit confusing at first to understand how power is distributed across the board without separate large components like in desktop computers.
 
