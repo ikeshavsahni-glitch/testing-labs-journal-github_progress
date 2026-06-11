@@ -13,7 +13,6 @@ Describe what you see.
 After opening the computer case, I observed several internal components connected neatly inside the system unit. I could see the motherboard, processor (CPU), RAM modules, storage devices such as a hard drive , power supply unit, cooling fan, and various cables connecting the components. The motherboard acted as the main circuit board, linking all parts together. The internal layout was organized to allow proper airflow and cooling. Each component had a specific function and worked together to ensure the computer operated correctly
 Insert image:
 images/system/computer-opened.jpg
-!<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/7089d529-4fa0-45b9-94ee-a9bbc4f44072" />
-!<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/7dacb6b5-9884-42ea-81b4-3dfcce187c94" />
-!<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/748bcfde-c23b-4071-9ddb-5ea1100a6221" />
+!<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/6d4cc6d4-e1a7-447d-bfcd-5cbe438535f8" />
+
 
