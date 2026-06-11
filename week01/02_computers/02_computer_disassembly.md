@@ -4,9 +4,6 @@ Describe the computer before opening it.
 Before opening the computer, it appeared as a complete and assembled device with a monitor, keyboard, mouse, and system unit.
 Insert image:
 !<img width="1600" height="1306" alt="image" src="https://github.com/user-attachments/assets/4ac95a96-dc8d-43ae-ace6-2f3c5291546c" />
-2
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4285da89-4e70-45db-b114-d32c4a10b548" />
-
 
 images/system/computer-before.jpg
 ## Internal Layout
@@ -16,5 +13,7 @@ After opening the computer case, I observed several internal components connecte
 
 Insert image:
 images/system/computer-opened.jpg
-
+!<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4285da89-4e70-45db-b114-d32c4a10b548" />
+!<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/6f1422ae-4018-4f8d-96b6-8f480fec3c60" />
+!<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/748bcfde-c23b-4071-9ddb-5ea1100a6221" />
 
